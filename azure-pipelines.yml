@@ -17,5 +17,5 @@ steps:
 
 - script: |
     python --version
-    python Python_File.py
+   Python_File.py
   displayName: 'Run Python Script'
